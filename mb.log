@@ -1,5 +1,0 @@
-{"message":"[mb:2525] Running with --allowInjection set. See http://localhost:2525/docs/security for security info","level":"warn","timestamp":"2021-05-08T10:44:06.242Z"}
-{"message":"[mb:2525] mountebank v2.4.0 now taking orders - point your browser to http://localhost:2525/ for help","level":"info","timestamp":"2021-05-08T10:44:06.249Z"}
-{"message":"[mb:2525] config: {\"options\":{\"allowInjection\":true,\"port\":2525,\"noParse\":false,\"formatter\":\"mountebank-formatters\",\"pidfile\":\"mb.pid\",\"log\":{\"level\":\"debug\",\"transports\":{\"console\":{\"colorize\":true,\"format\":\"%level: %message\"},\"file\":{\"path\":\"mb.log\",\"format\":\"json\"}}},\"localOnly\":false,\"ipWhitelist\":[\"*\"],\"mock\":false,\"debug\":false,\"heroku\":false,\"protofile\":\"protocols.json\",\"origin\":false},\"process\":{\"nodeVersion\":\"v14.16.1\",\"architecture\":\"x64\",\"platform\":\"win32\"}}","level":"debug","timestamp":"2021-05-08T10:44:06.250Z"}
-{"message":"[mb:2525] GET /images/book.jpg","level":"info","timestamp":"2021-05-08T10:45:09.616Z"}
-{"message":"[mb:2525] Adios - see you soon?","level":"info","timestamp":"2021-05-08T10:51:42.505Z"}
