@@ -1,0 +1,22 @@
+{
+  "name": "stubs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "format": "prettier-standard 'tests/**/*.js', '**/*.js'",
+    "start": "mb --loglevel debug --allowInjection"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "envobj": "2.0.2",
+    "flattenxml": "^1.1.0",
+    "jest": "26.6.3",
+    "mountebank": "^2.4.0",
+    "pino": "6.11.3",
+    "read-file-utf8": "2.0.4",
+    "supertest": "6.1.3"
+  }
+}
